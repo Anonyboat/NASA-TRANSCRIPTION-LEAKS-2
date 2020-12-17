@@ -1,17 +1,3 @@
-./                                                                                                                           
-                                                                                                   
-      db                                                                                           
-     ;MM:                                                                                          
-    ,V^MM.    `7MMpMMMb.  ,pW"Wq.`7MMpMMMb.`7M'   `MF'`7MMpMMMb.pMMMb.  ,pW"Wq.`7MM  `7MM  ,pP"Ybd 
-   ,M  `MM      MM    MM 6W'   `Wb MM    MM  VA   ,V    MM    MM    MM 6W'   `Wb MM    MM  8I   `" 
-   AbmmmqMA     MM    MM 8M     M8 MM    MM   VA ,V     MM    MM    MM 8M     M8 MM    MM  `YMMMa. 
-  A'     VML    MM    MM YA.   ,A9 MM    MM    VVV      MM    MM    MM YA.   ,A9 MM    MM  L.   I8 
-.AMA.   .AMMA..JMML  JMML.`Ybmd9'.JMML  JMML.  ,V     .JMML  JMML  JMML.`Ybmd9'  `Mbod"YML.M9mmmP' 
-                                              ,V                                      ~ @Anonyboat  
-                                           OOb"                                                    
-
-
-
 NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
 
 
